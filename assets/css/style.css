@@ -1,0 +1,83 @@
+* {
+  margin: 0px;
+}
+
+.baby-1 {
+  width: 100%;
+  height: 500px;
+  background-color: navy;
+  display: block;
+}
+
+.baby-2 {
+  width: 100%;
+  height: 300px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url("../img/2.jfif");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+  overflow: hidden;
+}
+
+.baby-3 {
+  width: 100%;
+  height: 500px;
+  background-color: green;
+}
+
+.baby-2 h2 {
+  text-align: center;
+  font-family: Impact;
+  font-weight: normal;
+  color: #fff;
+  margin-top: 70px;
+}
+
+.baby-2 p {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 15px;
+  color: #fff;
+}
+
+.baby-2 a {
+  text-decoration: none;
+  background-color: #fff;
+  color: #000;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-family: Bebas;
+  font-size: 16px;
+}
+
+.baby-1 h1 {
+  text-align: center;
+  font-family: Impact;
+  color: aqua;
+  font-weight: normal;
+}
+
+.baby-1 p {
+  text-align: justify;
+  font-family: Raleway;
+  font-size: 16px;
+  color: white;
+}
+
+.baby-3 h2 {
+  text-align: center;
+  font-family: Impact;
+  font-weight: normal;
+  font-size: 34px;
+  color: #fff;
+}
+
+.baby-3 p {
+  text-align: justify;
+  font-family: Raleway;
+  font-size: 16px;
+  color: aqua;
+}
